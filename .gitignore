@@ -1,0 +1,10 @@
+# ignore all log files (example)
+*.logs
+
+# ignore folder named 'node_modules'
+client/node_modules/
+server/node_modules/
+.vscode
+
+# Ignore file named 'README.txt' (example)
+README.txt
